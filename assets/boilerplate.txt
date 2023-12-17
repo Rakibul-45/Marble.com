@@ -1,0 +1,20 @@
+Images
+
+
+
+Icon / Fontawesome
+
+bootstrap
+
+Color => color1 = #4e4e4e , color2 = #f7f7f7 Color = #1f1f1f
+
+Fonts {Headline, Description, Quote}
+
+Section {
+    01 - Menu
+    02 -  Hero
+    03 - Service
+    04 - Portfolio
+    05 - Footer Link
+    06 - Footer
+}
